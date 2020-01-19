@@ -1,0 +1,4 @@
+string mensaje = "No es"
+if 3 <= 6 {
+print mensaje
+}
